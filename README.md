@@ -9,3 +9,4 @@ Do them again :
 - [백준 9465 스티커](https://www.acmicpc.net/problem/9465)
 - [백준 2156 포도주 시식](https://www.acmicpc.net/problem/2156)
 - [백준 13460 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+- [백준 12100 2048 (Easy)](https://www.acmicpc.net/problem/12100)
