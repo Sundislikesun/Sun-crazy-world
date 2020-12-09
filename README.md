@@ -11,3 +11,4 @@ Do them again :
 - [백준 13460 구슬 탈출 2](https://www.acmicpc.net/problem/13460)
 - [백준 12100 2048 (Easy)](https://www.acmicpc.net/problem/12100)
 - [백준 1525 퍼즐](https://www.acmicpc.net/problem/1525)
+- [백준 9328 열쇠](https://www.acmicpc.net/problem/9328)
