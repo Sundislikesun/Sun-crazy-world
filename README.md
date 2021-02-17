@@ -13,3 +13,13 @@ Do them again :
 - [백준 1525 퍼즐](https://www.acmicpc.net/problem/1525)
 - [백준 9328 열쇠](https://www.acmicpc.net/problem/9328)
 - [백준 4375 1](https://www.acmicpc.net/problem/4375)
+
+## Brute-force
+### 순열
+- [프로그래머스 완전탐색 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+
+### 재귀
+
+
+### 비트마스크
+- [백준 11723 집합](https://www.acmicpc.net/problem/11723)
