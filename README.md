@@ -18,6 +18,8 @@ Do them again :
 
 ## Brute-force
 ### 순열
+！使用 next_permutation 之前需要先 sort。
+
 - [프로그래머스 완전탐색 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
 
 ### 재귀
