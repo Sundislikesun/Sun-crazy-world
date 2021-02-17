@@ -26,4 +26,5 @@ Do them again :
 
 
 ### 비트마스크
+! A | B, A & B, A ^ B, ~A
 - [백준 11723 집합](https://www.acmicpc.net/problem/11723)
