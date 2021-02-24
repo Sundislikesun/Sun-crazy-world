@@ -26,6 +26,7 @@ Do them again :
 ### 재귀
 - [백준 곱셈](https://www.acmicpc.net/problem/1629)
 - [백준 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+- [백준 Z](https://www.acmicpc.net/problem/1074)
 
 ### 비트마스크
 ! A | B     A & B     A ^ B     ~A     A & ~A
