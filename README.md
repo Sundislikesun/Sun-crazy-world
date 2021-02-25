@@ -28,6 +28,9 @@ Do them again :
 - [백준 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 - [백준 Z](https://www.acmicpc.net/problem/1074)
 
+### 백트래킹
+- [백준 N-Queen](https://www.acmicpc.net/problem/9663)
+
 ### 비트마스크
 ! A | B     A & B     A ^ B     ~A     A & ~A
 - [백준 집합](https://www.acmicpc.net/problem/11723)
