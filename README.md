@@ -31,6 +31,7 @@ Do them again :
 ### 백트래킹
 - [백준 N-Queen](https://www.acmicpc.net/problem/9663)
 - [백준 부분수열의 합](https://www.acmicpc.net/problem/1182)
+- [백준 링크와 스타트](https://www.acmicpc.net/problem/15661)
 
 ### 비트마스크
 ! A | B     A & B     A ^ B     ~A     A & ~A
