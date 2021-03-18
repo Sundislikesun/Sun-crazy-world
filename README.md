@@ -16,11 +16,13 @@ Do them again :
 - [백준 열쇠](https://www.acmicpc.net/problem/9328)
 - [백준 1](https://www.acmicpc.net/problem/4375)
 
-#---------------
+---------------
 
 ## DP
 
 - [백준 약수의 합](https://www.acmicpc.net/problem/17425)
+
+---------------
 
 ## Brute-force
 
@@ -42,6 +44,8 @@ Do them again :
 ### 비트마스크
 ! A | B     A & B     A ^ B     ~A     A & ~A
 - [백준 집합](https://www.acmicpc.net/problem/11723)
+
+---------------
 
 ## 그래프
 
